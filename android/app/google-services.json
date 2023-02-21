@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856282327852",
+    "project_id": "estask",
+    "storage_bucket": "estask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856282327852:android:ef2d55898428e0df455a89",
+        "android_client_info": {
+          "package_name": "com.example.estask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856282327852-mcpd696qo9d6c006s92766sosmedd11d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvwGyIpnv7gy1zUsKwC0GhNvZkajfgmO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856282327852-mcpd696qo9d6c006s92766sosmedd11d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
